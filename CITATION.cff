@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+
+title: "Looming Test"
+type: software
+
+authors:
+  - family-names: "Nishi"
+    given-names: "Sumika"
+
+version: "0.1.0"
+date-released: "2026-10-07"
+
+repository-code: "https://github.com/Sumine-B6/Looming-Test"
+
+abstract: >-
+  A Windows application for presenting visual looming stimuli
+  to mice and logging trial timing to CSV.
+
+keywords:
+  - looming stimulus
+  - mouse
+  - behavioral neuroscience
+  - defensive behavior
+  - visual stimulus
+
+license: MIT
