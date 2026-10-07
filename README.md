@@ -141,10 +141,8 @@ The original protocol also refers to the `kpc-simone/shadow-graphics` repository
 
 ## Citation
 
-Citation information for this software will be added upon public release.
+If you use Looming Test in academic research, please cite this software using the citation information provided in `CITATION.cff`.
 
 ## License
 
-A software license has not yet been assigned.
-
-Please do not redistribute or reuse the software until the licensing terms are specified.
+This software is released under the MIT License. See the `LICENSE` file for details.
